@@ -12,7 +12,7 @@ def main():
     
 
     print()
-    input('Welcome to the ultimate \'Backpacing Europe\' guide!')
+    input('Welcome to the Ultimate \'Backpacing Europe\' guide!')
     os.system('cls' if os.name == 'nt' else 'clear')
     
     print()
