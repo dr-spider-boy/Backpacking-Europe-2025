@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 #Origonal program by Jack Watson. This program is designed to help the user plan a fun yet affordable backing trip accross Europe.
 
 
@@ -388,5 +387,4 @@ def read_csv(file):
     return country_dictionary
 #This calls main function.
 if __name__ == '__main__':
->>>>>>> 6c1199194dbee793de81e1e38b2b8657627e435b
     main()
